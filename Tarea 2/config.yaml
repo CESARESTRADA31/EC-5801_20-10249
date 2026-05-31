@@ -1,0 +1,9 @@
+personaje:
+  nombre: Cesar Estrada
+  altura: 1.75
+  peso: 67.0
+  edad: 23
+  lista_habilidades:
+  - Python Basico
+  - Simulacion en Proteus
+  descripcion: Trabajo mejor bajo presion
